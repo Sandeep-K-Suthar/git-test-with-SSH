@@ -1,1 +1,2 @@
 Hey, the journey on The Odin Project has officially started! 18/06/2024
+just checking git commit wihtout ( -m )
